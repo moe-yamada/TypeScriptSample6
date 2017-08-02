@@ -1,0 +1,4 @@
+C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\app.js
+C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\app.js.map
+C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\UnitTest1.js
+C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\UnitTest1.js.map
