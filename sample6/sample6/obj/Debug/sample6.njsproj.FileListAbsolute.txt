@@ -1,1 +1,2 @@
 C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Moe Yamada\Source\Repos\TypeScriptSample6\sample6\sample6\obj\Debug\sample6.njsprojResolveAssemblyReference.cache
